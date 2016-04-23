@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="supermicro.chu.redfish.MainActivityFragment"
+    tools:showIn="@layout/content_main"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.0dp"
+        android:layout_weight="0.30"
+        android:text="" />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0.0dp"
+        android:layout_weight="0.60">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="12345"
+            android:id="@+id/fan_display" />
+    </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0.0dp"
+            android:layout_weight="0.10"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="Full Speed"
+                android:id="@+id/mode_full_speed"
+                style="?android:attr/borderlessButtonStyle"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="Optimal Speed"
+                android:id="@+id/mode_optimal_speed"
+                style="?android:attr/borderlessButtonStyle"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="Heave IO"
+                android:id="@+id/mode_heavy_speed"
+                style="?android:attr/borderlessButtonStyle"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:text="Standard"
+                android:id="@+id/mode_standard"
+                style="?android:attr/borderlessButtonStyle"/>
+        </LinearLayout>
+</LinearLayout>

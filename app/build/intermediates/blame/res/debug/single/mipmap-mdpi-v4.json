@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\bot_launcher.png",
+        "source": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\src\\main\\res\\mipmap-mdpi\\bot_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\alert.png",
+        "source": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\src\\main\\res\\mipmap-mdpi\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\xfficient_launcher.png",
+        "source": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\src\\main\\res\\mipmap-mdpi\\xfficient_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\loading.png",
+        "source": "C:\\Users\\Chu\\AndroidStudioProjects\\RedFish\\app\\src\\main\\res\\mipmap-mdpi\\loading.png"
+    }
+]
